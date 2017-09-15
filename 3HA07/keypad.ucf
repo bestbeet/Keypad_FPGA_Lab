@@ -1,0 +1,19 @@
+
+# PlanAhead Generated physical constraints 
+
+NET "clk" LOC = P127;
+NET "column[0]" LOC = P104;
+NET "column[1]" LOC = P105;
+NET "column[2]" LOC = P107;
+NET "common" LOC = P5;
+NET "display[0]" LOC = P135;
+NET "display[1]" LOC = P137;
+NET "display[2]" LOC = P140;
+NET "display[3]" LOC = P141;
+NET "display[4]" LOC = P1;
+NET "display[5]" LOC = P2;
+NET "display[6]" LOC = P4;
+NET "row[0]" LOC = P108;
+NET "row[1]" LOC = P112;
+NET "row[2]" LOC = P100;
+NET "row[3]" LOC = P102;
